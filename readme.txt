@@ -1,1 +1,3 @@
-pandas streamlit plotly folium streamlit-folium
+pandas 
+streamlit 
+plotly
